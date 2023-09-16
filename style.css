@@ -1,0 +1,26 @@
+/* Presets */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* utility classes */
+
+.flex{
+    display: flex;
+}
+
+.home{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(assets/IN-en-20230911-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-repeat: no-repeat;
+}
+.main-nav{
+    
+}
+
+.logo img{
+    width: 13vw;
+}
